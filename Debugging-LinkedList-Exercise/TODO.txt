@@ -1,0 +1,14 @@
+TODO: Debugging
+---------------------------------------------------------------------
+Stellen Sie den Code unter git Versionskontrolle
+  - Machen Sie mehrere Commits zu sinnvollen Zeitpunkten
+
+Finden Sie die Bugs in der Klasse "IntegerLinkedList" und fixen
+Sie diese.
+ - werten Sie die Fehlermeldungen der automatischen Tests aus
+ - machen Sie Code Reviews
+ - verwenden sie Logfiles (Bauen Sie in Ihre Klassen Logger und sinnvolle Log statements ein)
+ - setzen Sie den interaktiven Debugger ein
+
+Verwenden Sie die Klasse "IntegerLinkedListTest" um Ihre Bugfixes
+zu überprüfen. 
